@@ -1,4 +1,4 @@
-<img src = "Cover.png">
+<img src = "cover.png">
 
 <h1 align="center">Hey Guys 👋, I'm Anirudh Saxena</h1>
 <h3 align="center">Data Science and ML enthusiast</h3>
