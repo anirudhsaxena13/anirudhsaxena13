@@ -1,6 +1,4 @@
-<img src = "cover.png"
-     width=1000px
-     height=320px>
+
 
 
 <h1 align="center">Hey Guys 👋, I'm Anirudh Saxena</h1>
