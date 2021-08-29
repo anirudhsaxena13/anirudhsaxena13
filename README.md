@@ -1,4 +1,7 @@
-<img src = "cover.png">
+<img src = "cover.png"
+     width=1000px
+     height=320px>
+
 
 <h1 align="center">Hey Guys 👋, I'm Anirudh Saxena</h1>
 <h3 align="center">Data Science and ML enthusiast</h3>
