@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
+- 🤝 Marketing Head at **Enactus SRM**
+
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
 - 🤝 I’m looking for help with **Neural Networks**
