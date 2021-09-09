@@ -18,17 +18,21 @@
   
 
 
-- 🔭 I’m currently working as Data Scientist 
+- I’m currently working as Data Scientist 
 
-- 🌱 I’m currently learning Data Science and Machine Learning 
+- I’m currently learning Data Science and Machine Learning 
   
-- � Marketing Head at Enactus SRM
+- Marketing Head at Enactus SRM
+ 
+- Data Analyst at Technocolabs Softwares.
+     
+- Data Mining Intern at Make me builder.
+     
+- I’m looking to collaborate on Machine learning projects 
 
-- 👯 I’m looking to collaborate on Machine learning projects 
-
-- 💬 How to find me : <a href> anirudhsaxenaa1310@gmail.com </a> 
+- How to find me : <a href> anirudhsaxenaa1310@gmail.com </a> 
   
--  🔭 Kaggle Profile : <a href> https://www.kaggle.com/anirudhsaxena13 </a> 
+- Kaggle Profile : <a href> https://www.kaggle.com/anirudhsaxena13 </a> 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/anirudhsaxena13?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
